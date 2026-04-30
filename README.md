@@ -13,14 +13,14 @@ A comprehensive web-based project management system designed to streamline task 
 ### **Frontend**
 *   **React.js:** UI component library for building the interactive interfaces.
 *   **HTML5 & CSS3:** For standard web structure and styling.
-*   *(Add any UI frameworks here, e.g., Tailwind CSS, Material-UI, or Bootstrap)*
+*   *( UI frameworks here, e.g., Tailwind CSS)*
 
 ### **Backend**
 *   **Node.js:** JavaScript runtime environment for the server.
 *   **Express.js:** Web framework for building RESTful APIs.
 
 ### **Database**
-*   **MongoDB:** NoSQL database for flexible data storage *(Change to MySQL/PostgreSQL if using a relational database)*.
+*   **MongoDB Atlas database:** NoSQL database for flexible data storage.
 
 ### **Key Libraries & Tools**
 *   **Mongoose:** Object Data Modeling (ODM) library for MongoDB.
